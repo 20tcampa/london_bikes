@@ -1,2 +1,2 @@
 # london_bikes
-This was my very first data science project. I used a Kaggle dataset about London bike-sharing services to do basic cleaning and creating visualizations.
+This was the very first data science project I ever did. It was a guided project on YouTube where you did some basic Python code and then created visualizations on Tableau. Since I do not have access to Tableau, I instead chose to do all the visualizations on PowerBI independently.
